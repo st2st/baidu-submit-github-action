@@ -1,0 +1,13 @@
+
+===========================================
+Fri Sep 24 18:36:05 UTC 2021
+===========================================
+SITE_URL: https://st2st.com
+SITEMAP_URL: https://st2st.com/sitemap.xml
+Get sitemap https://st2st.com/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   352  100    28  100   324     22    264  0:00:01  0:00:01 --:--:--   287100   352  100    28  100   324     22    264  0:00:01  0:00:01 --:--:--   287
+{"remain":2972,"success":14}Done!
