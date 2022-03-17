@@ -4523,3 +4523,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   637  100    28  100   609     22    494  0:00:01  0:00:01 --:--:--   517100   637  100    28  100   609     22    494  0:00:01  0:00:01 --:--:--   516
 {"remain":2950,"success":25}Done!
+
+===========================================
+Thu Mar 17 04:48:44 UTC 2022
+===========================================
+SITE_URL: https://st2st.com
+SITEMAP_URL: https://st2st.com/sitemap.xml
+Get sitemap https://st2st.com/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   609    0     0  100   609      0    339  0:00:01  0:00:01 --:--:--   339100   637  100    28  100   609     12    267  0:00:02  0:00:02 --:--:--   280100   637  100    28  100   609     12    267  0:00:02  0:00:02 --:--:--   280
+{"remain":2975,"success":25}Done!
