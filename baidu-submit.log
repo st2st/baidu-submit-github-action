@@ -21216,3 +21216,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   645  100    36  100   609     21    359  0:00:01  0:00:01 --:--:--   380100   645  100    36  100   609     21    359  0:00:01  0:00:01 --:--:--   380
 {"error":400,"message":"over quota"}Done!
+
+===========================================
+Tue Dec 19 04:37:55 UTC 2023
+===========================================
+SITE_URL: https://st2st.com
+SITEMAP_URL: https://st2st.com/sitemap.xml
+Get sitemap https://st2st.com/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100   645  100    36  100   609     24    410  0:00:01  0:00:01 --:--:--   435
+{"error":400,"message":"over quota"}Done!
